@@ -1,0 +1,8 @@
+Annotated GND as #PWR021.
+Annotated GND as #PWR022.
+Annotated GND as #PWR023.
+Annotated 100n as C16.
+Annotated 4K7 as R7.
+Annotated 4K7 as R8.
+Annotated ADS1115Module as U5.
+Annotation complete.
